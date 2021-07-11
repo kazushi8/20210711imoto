@@ -1,0 +1,48 @@
+.title{
+  color: #00008B;
+  position: relative;
+  top: 25px;
+  font-size: 30px;
+  margin-left: 10px;
+}
+.parent1{
+  color: #00008B;
+  font-weight: bold;
+  display: flex;
+  justify-content: flex-end;
+}
+.child1{
+  position: relative;
+  right: 100px;
+}
+.child2{
+  position: relative;
+  right: 80px;
+}
+.child3{
+  position: relative;
+  right: 60px;
+}
+.child4{
+  position: relative;
+  right: 20px;
+}
+.gazou1{
+  position: relative;
+  text-align: right;
+  margin-top: 100px;
+  z-index: 20;
+}
+.child5{
+  font-size: 60px;
+  position: relative;
+  bottom: 135px;
+}
+.haikei{
+  background-color: #00008B;
+  width: 900px;
+  height: 100px;
+  position: relative;
+  bottom: 140px;
+  z-index: 10;
+}
