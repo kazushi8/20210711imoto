@@ -30,19 +30,19 @@
 .gazou1{
   position: relative;
   text-align: right;
-  margin-top: 100px;
+  margin-top: 150px;
   z-index: 20;
 }
 .child5{
-  font-size: 60px;
+  font-size: 240%;
   position: relative;
-  bottom: 135px;
+  bottom: 115px;
 }
 .haikei{
   background-color: #00008B;
-  width: 900px;
+  width: 75%;
   height: 100px;
   position: relative;
-  bottom: 140px;
+  bottom: 120px;
   z-index: 10;
 }
